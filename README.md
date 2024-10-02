@@ -6,4 +6,4 @@ To play the songs make a new directory with "songs" name and put all of your son
 #Note :- musicplayerGUI.py is dependent on musicplayer.py but musicplayer.py is independent
 
 
-         libraries to install by pip : "pip install pygame", "pip install pynput"
+libraries to install by pip : "pip install pygame", "pip install pynput"
